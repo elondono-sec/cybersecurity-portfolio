@@ -32,7 +32,7 @@ My cybersecurity education includes completed guided hands-on labs in vulnerabil
 
 ## Featured Cybersecurity Projects
 
-### 1. Windows Server Vulnerability Assessment & Hardening
+### 1. [Windows Server Vulnerability Assessment & Hardening](windows-server-hardening/README.md)
 Completed a guided lab involving network enumeration, Windows Server vulnerability assessment, controlled exploitation, system hardening, and post-remediation validation.
 
 ### 2. Linux Digital Forensic Investigation
