@@ -35,7 +35,7 @@ My cybersecurity education includes completed guided hands-on labs in vulnerabil
 ### 1. [Windows Server Vulnerability Assessment & Hardening](windows-server-hardening/README.md)
 Completed a guided lab involving network enumeration, Windows Server vulnerability assessment, controlled exploitation, system hardening, and post-remediation validation.
 
-### 2. Linux Digital Forensic Investigation
+### 2. [Linux Digital Forensic Investigation](linux-digital-forensics/README.md)
 Conducted a guided investigation of a compromised Linux server using Autopsy to examine authentication logs, unauthorized accounts, command history, and intrusion artifacts.
 
 ### 3. Static & Dynamic Malware Analysis
