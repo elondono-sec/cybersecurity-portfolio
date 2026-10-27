@@ -41,7 +41,7 @@ Conducted a guided investigation of a compromised Linux server using Autopsy to 
 ### 3. [Static & Dynamic Malware Analysis](malware-analysis/README.md)
 Completed guided exercises involving binary inspection, file hashing, behavioral analysis in an isolated environment, and network traffic examination using Wireshark.
 
-### 4. Windows Kerberos Exploitation & Mitigation
+### 4. [Windows Kerberos Exploitation & Mitigation](windows-kerberos-security/README.md)
 Completed a guided Active Directory security lab involving Kerberos authentication weaknesses, privilege escalation, and defensive recommendations.
 
 ### 5. Enterprise Security Monitoring Architecture
