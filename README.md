@@ -38,7 +38,7 @@ Completed a guided lab involving network enumeration, Windows Server vulnerabili
 ### 2. [Linux Digital Forensic Investigation](linux-digital-forensics/README.md)
 Conducted a guided investigation of a compromised Linux server using Autopsy to examine authentication logs, unauthorized accounts, command history, and intrusion artifacts.
 
-### 3. Static & Dynamic Malware Analysis
+### 3. [Static & Dynamic Malware Analysis](malware-analysis/README.md)
 Completed guided exercises involving binary inspection, file hashing, behavioral analysis in an isolated environment, and network traffic examination using Wireshark.
 
 ### 4. Windows Kerberos Exploitation & Mitigation
