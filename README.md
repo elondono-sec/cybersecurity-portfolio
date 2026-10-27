@@ -47,7 +47,7 @@ Completed a guided Active Directory security lab involving Kerberos authenticati
 ### 5. [Enterprise Security Monitoring Architecture](enterprise-security-monitoring/README.md)
 Developed an academic security monitoring design incorporating network segmentation, centralized logging, SNMPv3, NetFlow/IPFIX, and access controls.
 
-### 6. Enterprise Penetration Testing & Risk Assessment
+### 6. [Enterprise Penetration Testing & Risk Assessment](enterprise-penetration-testing/README.md)
 Developed an academic enterprise assessment plan addressing authorization, rules of engagement, testing methodology, risk scoring, and remediation.
 
 ### 7. Phishing Risk Assessment & Security Awareness
