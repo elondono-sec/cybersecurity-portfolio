@@ -50,7 +50,7 @@ Developed an academic security monitoring design incorporating network segmentat
 ### 6. [Enterprise Penetration Testing & Risk Assessment](enterprise-penetration-testing/README.md)
 Developed an academic enterprise assessment plan addressing authorization, rules of engagement, testing methodology, risk scoring, and remediation.
 
-### 7. Phishing Risk Assessment & Security Awareness
+### 7. [Phishing Risk Assessment & Security Awareness](phishing-risk-assessment/README.md)
 Analyzed a fictional phishing incident and developed risk-reduction recommendations. Separately completed the Mastercard Cybersecurity Job Simulation through Forage, designing a phishing simulation and interpreting simulated results.
 
 ## Professional Experience
