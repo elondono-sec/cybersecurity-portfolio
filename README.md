@@ -44,7 +44,7 @@ Completed guided exercises involving binary inspection, file hashing, behavioral
 ### 4. [Windows Kerberos Exploitation & Mitigation](windows-kerberos-security/README.md)
 Completed a guided Active Directory security lab involving Kerberos authentication weaknesses, privilege escalation, and defensive recommendations.
 
-### 5. Enterprise Security Monitoring Architecture
+### 5. [Enterprise Security Monitoring Architecture](enterprise-security-monitoring/README.md)
 Developed an academic security monitoring design incorporating network segmentation, centralized logging, SNMPv3, NetFlow/IPFIX, and access controls.
 
 ### 6. Enterprise Penetration Testing & Risk Assessment
